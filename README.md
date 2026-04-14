@@ -15,4 +15,9 @@ HTML5
 CSS3
 JavaScript (ES6+)
 
+💡 How It Works
+User selects a future date & time
+App calculates the difference between current time and target time
+Updates countdown every second using JavaScript setInterval
+
 
