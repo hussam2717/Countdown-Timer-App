@@ -20,4 +20,10 @@ User selects a future date & time
 App calculates the difference between current time and target time
 Updates countdown every second using JavaScript setInterval
 
+📌 Future Improvements
+🔔 Notification when time ends
+🎨 Theme customization (dark/light mode)
+📱 Mobile optimization
+🧠 Save countdown using local storage
+
 
