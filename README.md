@@ -10,3 +10,9 @@ live demo -
 🎯 Clean and responsive UI
 ⚡ Fast and lightweight
 
+🛠️ Tech Stack
+HTML5
+CSS3
+JavaScript (ES6+)
+
+
